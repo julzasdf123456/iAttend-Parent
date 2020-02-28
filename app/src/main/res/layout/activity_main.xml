@@ -18,14 +18,16 @@
             android:hint="Username/Email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="text"/>
+            android:inputType="text"
+            android:text="julzasdf123456@gmail.com"/>
 
         <EditText
             android:id="@+id/passwordLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
-            android:inputType="textPassword"/>
+            android:inputType="textPassword"
+            android:text="ironman@14rockx"/>
 
         <Button
             android:id="@+id/loginButton"
